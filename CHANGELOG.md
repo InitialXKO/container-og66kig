@@ -1,3 +1,15 @@
+# v0.0.4 (Tue Dec 26 2023)
+
+#### 🐛 Bug Fix
+
+- Update deploy.sh [#2](https://github.com/InitialXKO/container-og66kig/pull/2) ([@InitialXKO](https://github.com/InitialXKO))
+
+#### Authors: 1
+
+- [@InitialXKO](https://github.com/InitialXKO)
+
+---
+
 # v0.0.3 (Tue Dec 26 2023)
 
 #### ⚠️ Pushed to `main`
