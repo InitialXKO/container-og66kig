@@ -1,3 +1,15 @@
+# v0.0.6 (Tue Dec 26 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Create DockerFile ([@InitialXKO](https://github.com/InitialXKO))
+
+#### Authors: 1
+
+- [@InitialXKO](https://github.com/InitialXKO)
+
+---
+
 # v0.0.5 (Tue Dec 26 2023)
 
 #### ⚠️ Pushed to `main`
